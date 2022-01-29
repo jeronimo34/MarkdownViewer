@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarkdownViewer", "MarkdownViewer\MarkdownViewer.csproj", "{29F57C36-ABFD-4F9B-A55B-B53480A8A12C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29F57C36-ABFD-4F9B-A55B-B53480A8A12C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29F57C36-ABFD-4F9B-A55B-B53480A8A12C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29F57C36-ABFD-4F9B-A55B-B53480A8A12C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29F57C36-ABFD-4F9B-A55B-B53480A8A12C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B8D280C-618C-4577-B25A-258B3AC550D0}
+	EndGlobalSection
+EndGlobal
